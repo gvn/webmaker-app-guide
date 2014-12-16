@@ -2,7 +2,7 @@
 
 ### Install links
 
-* [Install for Firefox OS - http://mzl.la/ffos](http://mzl.la/ffos])
+* [Install for Firefox OS - http://mzl.la/ffos](http://mzl.la/ffos)
 * [Install for Android - http://mzl.la/android](http://mzl.la/android)
 
 ### Web
