@@ -21,7 +21,7 @@ You should use this link for user testing, demos.
 
 
 #### Main repository
-[mozillafordevelopment/webmaker-app](https://github.com/mozillafordevelopment/webmaker-app)
+[mozilla/webmaker-app](https://github.com/mozilla/webmaker-app)
 
 http://webmaker-app.mofodev.net/
 https://webmaker-app.mofostaging.net/

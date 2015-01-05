@@ -19,7 +19,7 @@ In order to contribute to Webmaker Mobile, you'll need to **create your own fork
 Clone from your own fork or from the original:
 
 ```
-git clone https://github.com/mozillafordevelopment/webmaker-app.git
+git clone https://github.com/mozilla/webmaker-app.git
 cd webmaker-app
 ```
 
@@ -36,7 +36,7 @@ This will pull down localization files, build the project, start a webserver for
 
 ### Trouble connecting?
 
-By default, you will need to log in to test the app. If you're having trouble logging in or you see connection errors in the console, [File an issue](https://github.com/mozillafordevelopment/webmaker-app/issues) and switch to **offline mode** instead.
+By default, you will need to log in to test the app. If you're having trouble logging in or you see connection errors in the console, [File an issue](https://github.com/mozilla/webmaker-app/issues) and switch to **offline mode** instead.
 
 To start the app in offline mode create a `.env` file in the root of the `webmaker-app` directory:
 

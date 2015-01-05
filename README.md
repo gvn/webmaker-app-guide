@@ -8,7 +8,7 @@ Mozilla Webmaker is all about building a new generation of digital creators and 
 ## Compatibility
 
 Webmaker aims to be as useful and compatible as possible to a wide variety of users, and you should
-[let us know](https://github.com/mozillafordevelopment/webmaker-app/issues/new) if you find that it
+[let us know](https://github.com/mozilla/webmaker-app/issues/new) if you find that it
 does not work on your device or browser. We make every effort to test in the following baseline environments:
 
 |OS        |Baseline Version/Device|Ideal Version/Device|

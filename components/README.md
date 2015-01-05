@@ -6,9 +6,9 @@ In Webmaker Mobile, components are individual units of code, including html, js,
 
 ## Where can I find existing components?
 
-Each folder in the [`components/`](https://github.com/mozillafordevelopment/webmaker-app/tree/master/components/)directory represents a component.
+Each folder in the [`components/`](https://github.com/mozilla/webmaker-app/tree/master/components/)directory represents a component.
 
-For example, the [`tabBar` component](https://github.com/mozillafordevelopment/webmaker-app/tree/master/components/tabBar) creates a bar at the bottom of the app with navigation buttons.
+For example, the [`tabBar` component](https://github.com/mozilla/webmaker-app/tree/master/components/tabBar) creates a bar at the bottom of the app with navigation buttons.
 
 ![tabBar visual example](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-10-08_at_4.36.06_PM.png)
 
@@ -36,7 +36,7 @@ Let's make a new component called `selector`. It creates a select element given 
 
 ### Create the component directory
 
-First, we need to add the necessary files to [`components/`](https://github.com/mozillafordevelopment/webmaker-app/tree/master/components/):
+First, we need to add the necessary files to [`components/`](https://github.com/mozilla/webmaker-app/tree/master/components/):
 
 ```
 components/
@@ -68,7 +68,7 @@ This uses a few `vue.js` directives:
 
 Components have to be **registered** with vue.js in order to be available in the app.
 
-You can do this in [`lib/view.js`](https://github.com/mozillafordevelopment/webmaker-app/tree/master/lib/view.js):
+You can do this in [`lib/view.js`](https://github.com/mozilla/webmaker-app/tree/master/lib/view.js):
 
 ```js
 var componentList = {
